@@ -1,0 +1,50 @@
+.main {
+  text-align: center;
+  width: 100%;
+  height : 25%;
+}
+
+.home {
+  text-align: center;
+  margin : 0,0,0,0;
+}
+
+.main.logo {
+  margin-top: 100px;
+}
+
+.main.input {
+  left : 15%;
+  height : 10%;
+  width : 70%;
+}
+
+.main.button {
+  left : 15%;
+  width : 70%;
+  height : 5%;
+  margin-bottom: 10px;
+}
+
+.main.switch {
+  text-align: center;
+  height : 2%;
+}
+
+.main.alert {
+  left : 15%;
+  width : 62%;
+  height: 4%;
+  margin-bottom: 10px;
+  position: relative;
+}
+
+.home.mainlabel {
+  margin-top:  1em;
+}
+.home.button{
+  margin-top: 3em;
+  margin-left: 2em;
+  margin-right: 2em;
+
+}
